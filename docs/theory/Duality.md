@@ -242,7 +242,7 @@ $$
 \end{split}
 $$
 
-*Hint:* Consider the problem of minimizing $\frac{1}{2}\|y - x\|_2^2$ subject to subject to $y \succeq 0, \mathbf{1}^\top y = 1$. Form the partial Lagrangian
+*Hint:* Consider the problem of minimizing $\frac{1}{2}\|y - x\|_2^2$ subject to $y \succeq 0, \mathbf{1}^\top y = 1$. Form the partial Lagrangian
 
 $$
 L(y, \nu) = \dfrac{1}{2}\|y - x\|_2^2 +\nu(\mathbf{1}^\top y - 1),
